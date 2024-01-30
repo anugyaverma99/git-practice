@@ -94,7 +94,7 @@
 // console.log(allfruits);
 
 //FUNCTIONSS.......
-
+//ANONYMOUS FUNCTION
 // const multiply=function(a,b){
 //     return a*b;
 // };
@@ -110,13 +110,13 @@
 
 
 ///   ERROR HANDLING
-try{
-    //code that may throw an error
-    throw new Error("an error");
-} catch (error){
-    //code to handle the error
-    console.error(error.message);
-}finally{
-    //code that will run regardless of whether ther was an error
-    console.log("cleanup code");
-}
+// try{
+//     //code that may throw an error
+//     throw new Error("an error");
+// } catch (error){
+//     //code to handle the error
+//     console.error(error.message);
+// }finally{
+//     //code that will run regardless of whether ther was an error
+//     console.log("cleanup code");
+// }
